@@ -1,2 +1,2 @@
 # AP-CSP-GPA-Calculator
-Calculates GPA for students depending on your classes
+This code allows for high school students to calculate their GPA depending on the type of class they take. This makes it easy for students to see how well they are doing in the class with the GPA score and it tells you if that score is good or bad. You can also change background color if you want to print ou the score of the grade with a color that best reflects the score. This solves a real world problem because students can figure out if there class gives GPA boost. Also it can help students prepare for which colleges they want to apply to by knowing their exact grade in each class.
